@@ -6,7 +6,7 @@ To use:
 
 `$ sudo pip install flask unrest`
 
-Replace `"YOUR MASHAPE KEY"` with your Mashape key
+Replace `"YOUR MASHAPE KEY"` in `Yoda.py` with your Mashape key
 
 cd into the parent directory
 
